@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dagger2-Retrofit-MVP-ButterKnife-Sample</string>
+
+    <string name="welcome_text">Welcome on Board.If you wanna fly, you should press the button below.</string>
+</resources>
